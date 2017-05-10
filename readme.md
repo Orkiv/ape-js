@@ -1,6 +1,13 @@
 # APE
  Angular JS REST client
 
+# Index
+
+1. [Install](#install)
+2. [Getting started](#getting-started)
+3. [Documentation](#documentation)
+4. [Models](#models)
+
 ![Angular JS REST client](https://github.com/Orkiv/ape-js/raw/master/logo.png)
 
 # Install 
