@@ -1,6 +1,7 @@
 # APE
  Angular JS REST client
 
+![Angular JS REST client](https://github.com/Orkiv/ape-js/raw/master/logo.png)
 
 # Install 
 
@@ -12,13 +13,23 @@
 
 	npm install ape-js
 
-Or download the package directly [here](#ff) 
+Or download the package directly [here](https://github.com/Orkiv/ape-js/archive/master.zip) 
 
 # Getting Started
 
 Insert this tag  after your angularjs initialization :
 
 	<script type="text/javascript" src="bower_components/ape-js/ape.js"></script>
+	/*
+	OR
+	*/
+	<script type="text/javascript" src="/ape-js/ape.js"></script>
+	/*
+	OR
+	*/
+	<script type="text/javascript" src="node_modules/ape-js/ape.js"></script>
+
+
 
 ## Injection
 
