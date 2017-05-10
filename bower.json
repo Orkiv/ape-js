@@ -1,0 +1,18 @@
+{
+  "name": "ape-js",
+  "authors": [
+    "Orkiv"
+  ],
+  "description": "Angular JS REST client",
+  "main": "ape.js",
+  "keywords": [
+    "rest",
+    "angular",
+    "client"
+  ],
+  "license": "MIT",
+  "homepage": "https://orkiv.com/",
+  "dependencies": {
+    "angular"  : "^1.3.0"
+  }
+}
